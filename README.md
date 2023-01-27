@@ -1,2 +1,2 @@
-# HTML_AND_CSS_Template_One
+# Git-Course
 HTML AND CSS Design
